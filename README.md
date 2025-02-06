@@ -1,4 +1,4 @@
 # test
-ak:ltaIgXiwaILMfV5fumd
+ak:LTAIgXiwaILMfV5fumd
 
 sk:mkonjibhuvgycftxdrzseawqszexdr
